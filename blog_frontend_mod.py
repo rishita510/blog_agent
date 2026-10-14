@@ -9,7 +9,7 @@ from typing import Any, Dict, Iterator, List, Tuple
 import pandas as pd
 import streamlit as st
 
-from blog_backend import app
+from blog_backend_mod import app
 
 
 def safe_slug(title: str) -> str:
