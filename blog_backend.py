@@ -838,4 +838,3 @@ app = g.compile()
 
 
 # The compiled LangGraph application
-app

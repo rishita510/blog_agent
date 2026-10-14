@@ -1,0 +1,11 @@
+streamlit
+pandas
+python-dotenv
+pydantic
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+openai
+tavily-python
+huggingface_hub pillow
