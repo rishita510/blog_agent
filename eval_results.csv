@@ -1,0 +1,11 @@
+topic,mode,sections,evidence_items,first_try_pass_rate,final_pass_rate,revision_rounds,invalid_urls_first,invalid_urls_final,citation_validity,unsupported_markers,word_accuracy,avg_word_ratio,relevance,depth,clarity,groundedness,latency_s
+How Redis caching works,closed_book,6,0,1.0,1.0,0,0,0,1.0,0,0.5,1.261925505050505,5,5,4,,19.6
+Retrieval-augmented generation explained,closed_book,7,0,1.0,1.0,0,0,0,1.0,0,0.8571428571428571,1.0023786848072562,5,5,4,,14.9
+Python asyncio explained,closed_book,7,0,1.0,1.0,0,0,0,1.0,0,0.7142857142857143,1.041523088023088,5,5,4,,24.2
+Designing a rate limiter,closed_book,7,0,1.0,1.0,0,0,0,1.0,0,0.7142857142857143,1.1013968253968254,5,5,4,,15.5
+Kubernetes vs Docker Swarm,closed_book,7,0,1.0,1.0,0,0,0,1.0,0,0.8571428571428571,0.9969546485260771,5,5,5,,14.3
+Vector databases comparison,hybrid,7,10,1.0,1.0,0,0,0,1.0,0,0.42857142857142855,1.259093268886502,5,5,5,5.0,65.8
+LangGraph vs CrewAI for building agents,hybrid,7,18,0.7142857142857143,1.0,1,2,0,1.0,0,0.14285714285714285,1.3556439909297051,5,5,5,5.0,76.7
+Latest open-source LLM releases,open_book,7,8,1.0,1.0,0,0,0,1.0,0,0.5714285714285714,1.1717006802721088,5,5,4,5.0,69.2
+Weekly AI news roundup,open_book,7,29,1.0,1.0,0,0,0,1.0,0,1.0,0.9812585034013604,5,5,4,5.0,72.1
+Current state of AI coding assistants,open_book,7,6,1.0,1.0,0,0,0,1.0,0,0.8571428571428571,1.1355627705627707,5,5,5,5.0,54.8
